@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cloudflare-dynamic-dns": {
+      "commandName": "Project",
+      "commandLineArgs": "--update"
+    }
+  }
+}
