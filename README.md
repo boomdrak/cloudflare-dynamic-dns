@@ -12,7 +12,7 @@ The project uses a config.json file that has three parameters
 ```bash
   api_email
   api_key
-  api_record
+  dns_record
 ```
 
 
