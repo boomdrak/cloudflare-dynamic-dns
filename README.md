@@ -24,4 +24,9 @@ cloudflare-dynamic-dns.exe  --version
 cloudflare-dynamic-dns.exe  --update
 ```
 
+{APPDIR}\config.json will be written on first --update execution, if not config.json file exists.
+Then update parameters accordingly.
+
+api_email and api_key can be copied from your cloudflare dashboard https://dash.cloudflare.com/
+
 Feel free to contribute and create a pull request :)
